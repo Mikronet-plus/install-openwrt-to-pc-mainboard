@@ -1,4 +1,5 @@
-# install-openwrt-to-pc-mainboard
+# install-openwrt-to-pc-mainboard 
+نصب سیستم عامل openwrt در مادربرد کامپیوتر بهمراه پکیج پسوال  
 You will learn how to install the OpenWRT operating system and the Passwall 2 package along with the Iranian rootkit in this repository, along with a YouTube tutorial video.  
 **install openwrt 23.05.3 to pc mainboard(normal bios not efi) and install passwall2 package**  
 
