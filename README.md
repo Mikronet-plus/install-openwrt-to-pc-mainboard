@@ -1,13 +1,19 @@
 # install-openwrt-to-pc-mainboard 
-نصب سیستم عامل openwrt در مادربرد کامپیوتر بهمراه پکیج پسوال  
+نصب سیستم عامل openwrt در مادربرد کامپیوتر   
+بهمراه پکیج پسوال + روتینگ کامل سایتهای ایرانی  
+
 You will learn how to install the OpenWRT operating system and the Passwall 2 package along with the Iranian rootkit in this repository, along with a YouTube tutorial video.  
+
 **install openwrt 23.05.3 to pc mainboard(normal bios not efi) and install passwall2 package**  
 
-**installing openwrt video touturial**  
+**installing openwrt video tutorial**  
 
-# Now after installation we need to increase our disk capacity to install packages. Enter the commands according to the tutorial video.  
+# Now after installation we need to increase our disk size to install packages. Enter the commands as per the tutorial video.  
 
-# Configure startup scripts                                                                               
+# Configure startup scripts   
+
+-----  
+```
 cat << "EOF" > /etc/uci-defaults/70-rootpt-resize                                                         
 if [ ! -e /etc/rootpt-resize ] \                                                                          
 && type parted > /dev/null \                                                                              
@@ -53,14 +59,19 @@ cat << "EOF" >> /etc/sysupgrade.conf
 /etc/uci-defaults/70-rootpt-resize                                                                        
 /etc/uci-defaults/80-rootfs-resize                                                                        
 EOF 
-
+```
 
 ------
 
-  
-opkg update   
-opkg install parted losetup resize2fs  
-sh /etc/uci-defaults/70-rootpt-resize  
+```  
+opkg update
+```
+```
+opkg install parted losetup resize2fs
+```
+```
+sh /etc/uci-defaults/70-rootpt-resize
+``` 
 
  # Now you can easily install the passwall.
  
