@@ -99,7 +99,7 @@ sh /etc/uci-defaults/70-rootpt-resize
 
 
 
-##🔑 نصب Passwall
+## 🔑 نصب Passwall
 
 
 # System Requirements :
