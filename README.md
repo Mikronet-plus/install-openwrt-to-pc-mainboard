@@ -1,7 +1,8 @@
 # install-openwrt-to-pc-mainboard 
 نصب سیستم عامل openwrt در مادربرد کامپیوتر   
-بهمراه پکیج پسوال + روتینگ کامل سایتهای ایرانی **توضیحات فارسی**
-[برای دیدن توضیحان فارسی کلیک کنید](README.FA.md)
+بهمراه پکیج پسوال + روتینگ کامل سایتهای ایرانی  
+**توضیحات فارسی-Persian**  
+[برای دیدن توضیحات فارسی کلیک کنید](README.FA.md)
 
 You will learn how to install the OpenWRT operating system and the Passwall 2 package along with the Iranian rootkit in this repository, along with a YouTube tutorial video.  
 
