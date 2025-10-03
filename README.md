@@ -109,7 +109,7 @@ HTTP (XRAY ✅ SING-BOX ✅)
 
 #
 
-✅ Tested On : Xiaomi 4a Gigabit , TP-Link C6 v3 , Mikrotik Hap ac2 , GL.iNet AR300M (NOR) , Linksys ea7500. v1-v2 , Linksys ea8100 v1-v2 , ASUS RT-N66U , Xiaomi AX3600 , Xiomi AX3200 , Xiaomi AX6000 , Xiaomi AX3000T ,  Linksys EA8300 , Netgear r7800 , super x7 pc mainboars
+✅ Tested On : Xiaomi 4a Gigabit , TP-Link C6 v3 , Mikrotik Hap ac2 , GL.iNet AR300M (NOR) , Linksys ea7500. v1-v2 , Linksys ea8100 v1-v2 , ASUS RT-N66U , Xiaomi AX3600 , Xiomi AX3200 , Xiaomi AX6000 , Xiaomi AX3000T ,  Linksys EA8300 , Netgear r7800 , Super x7 Server Mainboars
 
 # Features
 
