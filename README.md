@@ -12,7 +12,7 @@ You will learn how to install the OpenWRT operating system and the Passwall 2 pa
 
 ## 📺 Video Tutorial
 🎥 Watch the full installation and usage guide on YouTube:  
-👉 [Click here to watch the video]([https://www.youtube.com/watch?v=131ONwrhPxg&t=72s](https://www.youtube.com/watch?v=WZkUOihlim0)) 
+👉 [Click here to watch the video](https://www.youtube.com/watch?v=WZkUOihlim0)
 
 
 # Now after installation we need to increase our disk size to install packages. Enter the commands as per the tutorial video.  
